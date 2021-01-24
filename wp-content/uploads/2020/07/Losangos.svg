@@ -1,0 +1,20 @@
+<svg width="148" height="96" viewBox="0 0 148 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.41421" y="48.376" width="65" height="65" transform="rotate(-45 1.41421 48.376)" stroke="black" stroke-width="2"/>
+<rect x="23" y="47.376" width="67" height="67" transform="rotate(-45 23 47.376)" fill="#FF8C40"/>
+<g clip-path="url(#clip0)">
+<line x1="93.0743" y1="99.7489" x2="149.643" y2="43.1804" stroke="black" stroke-width="2"/>
+<line x1="90.0743" y1="90.7489" x2="146.643" y2="34.1804" stroke="black" stroke-width="2"/>
+<line x1="86.0743" y1="83.7489" x2="142.643" y2="27.1804" stroke="black" stroke-width="2"/>
+<line x1="78.0743" y1="79.7489" x2="134.643" y2="23.1804" stroke="black" stroke-width="2"/>
+<line x1="72.0743" y1="73.7489" x2="128.643" y2="17.1804" stroke="black" stroke-width="2"/>
+<line x1="63.0743" y1="71.7489" x2="119.643" y2="15.1804" stroke="black" stroke-width="2"/>
+<line x1="57.0743" y1="66.7489" x2="113.643" y2="10.1804" stroke="black" stroke-width="2"/>
+<line x1="53.0743" y1="59.7489" x2="109.643" y2="3.18041" stroke="black" stroke-width="2"/>
+<line x1="47.0743" y1="54.7489" x2="103.643" y2="-1.81959" stroke="black" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="67" height="67" fill="white" transform="translate(52.7814 47.4561) rotate(-45)"/>
+</clipPath>
+</defs>
+</svg>

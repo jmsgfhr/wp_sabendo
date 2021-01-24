@@ -1,0 +1,23 @@
+<svg width="129" height="260" viewBox="0 0 129 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<ellipse cx="1.06136" cy="133.5" rx="94.872" ry="94.5" transform="rotate(-179.971 1.06136 133.5)" fill="#FF8C40"/>
+<path d="M-103.25 131.448C-103.221 74.6674 -57.1683 28.6609 -0.387789 28.6895C56.3927 28.7181 102.399 74.771 102.371 131.552C102.342 188.332 56.2892 234.339 -0.491344 234.31C-57.2719 234.281 -103.278 188.229 -103.25 131.448Z" stroke="black"/>
+<path d="M-110.305 131.948C-110.275 70.9929 -60.8357 21.6037 0.119681 21.6344C61.0751 21.6651 110.464 71.1041 110.434 132.06C110.403 193.015 60.9639 242.404 0.0085124 242.373C-60.9469 242.343 -110.336 192.904 -110.305 131.948Z" stroke="black"/>
+<circle cx="0.568301" cy="131.5" r="117.929" transform="rotate(-179.971 0.568301 131.5)" stroke="black"/>
+<circle cx="-0.439619" cy="131.5" r="127" transform="rotate(-179.971 -0.439619 131.5)" stroke="black"/>
+<g clip-path="url(#clip1)">
+<circle cx="1.56537" cy="129.501" r="101.25" transform="rotate(-179.971 1.56537 129.501)" stroke="black" stroke-width="2.5"/>
+<circle cx="2.06512" cy="130.001" r="108.75" transform="rotate(-179.971 2.06512 130.001)" stroke="black" stroke-width="2.5"/>
+<circle cx="2.56535" cy="129.501" r="116.25" transform="rotate(-179.971 2.56535 129.501)" stroke="black" stroke-width="2.5"/>
+<circle cx="1.56537" cy="129.501" r="125.25" transform="rotate(-179.971 1.56537 129.501)" stroke="black" stroke-width="2.5"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="128" height="259" fill="white" transform="translate(128 259.064) rotate(-179.971)"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="140.551" height="143" fill="white" transform="translate(128.059 143.064) rotate(-179.971)"/>
+</clipPath>
+</defs>
+</svg>
